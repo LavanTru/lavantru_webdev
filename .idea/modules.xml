@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/lavantru_webdev.iml" filepath="$PROJECT_DIR$/.idea/lavantru_webdev.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/.idea/dash-demo.iml" filepath="$PROJECT_DIR$/.idea/dash-demo.iml" />
+>>>>>>> a82afd8183a0992c1fb44ad26aeca506af1e747c
     </modules>
   </component>
 </project>
