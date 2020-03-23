@@ -39,8 +39,8 @@ app.layout = html.Div(children=[
             id='example-graph2',
             figure={
                 'data': [
-                    {'x': [1, 2, 3], 'y': [2,4, 1], 'type': 'bar', 'name': 'SF'},
-                    {'x': [1, 2, 3], 'y': [4, 1, 3], 'type': 'bar', 'name': u'Montréal'},
+                    {'x': [1, 2, 3], 'y': [2, 2, 2], 'type': 'bar', 'name': 'SF'},
+                    {'x': [1, 2, 3], 'y': [2, 2, 2], 'type': 'bar', 'name': u'Montréal'},
                 ],
                 'layout': {
                     'title': 'Dash Data Visualization'
